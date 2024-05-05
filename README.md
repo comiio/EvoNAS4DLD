@@ -10,4 +10,4 @@ We can run demo_model.ipynb or wholemodel.py to implement training and pruning
 
 In visualization/gradcam_vis we can run vis_gradcam to implement gradcam and dff  
 
-In visualization/mad_vis we can run feature_extraction.py to extract and save feature, then we can run demo MDA.ipynb to implement mda  
+In visualization/mad_vis we can run feature_extraction.py to extract and save feature, then we can run demoMDA.py to implement mda  
